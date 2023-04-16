@@ -1,4 +1,3 @@
-
 .header-banner{
     top: 0px;
     padding: 0px;
@@ -8,9 +7,6 @@
     width: 100%;
     min-height: 300px;
     height: 29vw;
-}
-.header-banner:hover{
-    filter: blur(1px);
 }
 .logo{
     position: absolute;
